@@ -1,2 +1,1 @@
-# pattern-power
-Module Seventeen Challenge 
+# Regex Tutorial Starter Code
