@@ -50,7 +50,7 @@ To use the tutorial:
 
 <div align="center">
 
-[Visit my gist](https://gist.github.com/haartmuhn)
+[Visit my gist]([https://gist.github.com/haartmuhn](https://gist.github.com/haartmuhn/519e3b8a872e705fa5a0ec3b4c5b2dad))
 
 </div>
 
